@@ -1,12 +1,13 @@
-# Johnny Duenas | Data Analyst Portfolio
+# 📊 Johnny Duenas | Data Analyst Portfolio
 
-A professional portfolio website showcasing my work in SQL, Power BI, Python, and Data Reporting. 
+A professional portfolio website showcasing my work in SQL, Power BI, Python, and Data Reporting.
 
-**Live Site:** [https://johnnyd01.github.io](https://johnnyd01.github.io)
+🔗 **Live Site:** [https://johnnyd01.github.io](https://johnnyd01.github.io)
 
+![Portfolio Preview](https://github.com/JohnnyD01/johnnyd01.github.io/blob/main/public/preview-image.png?raw=true)
+*(Note: You can replace this line with a screenshot of your site later)*
 
-
-##  Technical Architecture
+## 🛠️ Technical Architecture
 
 This website is a **Single Page Application (SPA)** built with **React**. Unlike standard HTML/CSS sites, this project uses a compilation process to optimize performance and manage assets.
 
@@ -17,7 +18,21 @@ This website is a **Single Page Application (SPA)** built with **React**. Unlike
 * **Icons:** Lucide-React
 * **Deployment:** GitHub Pages (via `gh-pages` package)
 
-##  The Development Workflow
+## 🌿 Branching & Deployment Strategy
+
+This repository follows a standard **Source vs. Distribution** workflow to separate the development environment from the live production site.
+
+### 1. The `main` Branch (Source Code)
+* **Purpose:** Development and Version Control.
+* **Contents:** The raw React code, `src` folder, `public` assets, and configuration files.
+* **Workflow:** All coding, edits, and commits happen here. This is the human-readable code.
+
+### 2. The `gh-pages` Branch (Production)
+* **Purpose:** Live Hosting.
+* **Contents:** The **compiled** application. When `npm run build` is executed, React compiles the code into optimized static files (HTML, CSS, JS bundles).
+* **Workflow:** This branch is automatically updated via the deployment script. It acts as the "server" for the live website.
+
+## 🚀 The Development Workflow
 
 This project was built using a hybrid workflow combining AI prototyping with local full-stack development tools.
 
