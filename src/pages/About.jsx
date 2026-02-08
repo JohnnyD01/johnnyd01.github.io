@@ -14,7 +14,7 @@ const About = () => {
   const experience = [
     {
       company: 'International Registries Inc. (IRI)',
-      position: 'Contract Data Reporting Analyst',
+      position: 'Contract Reporting Data Analyst',
       period: 'February 2025 - Present',
       location: 'Reston, VA',
       achievements: [

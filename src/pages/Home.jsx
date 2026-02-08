@@ -76,7 +76,7 @@ const Home = () => {
                   Johnny Duenas
                 </h1>
                 <p className="text-xl md:text-2xl text-cyan-600 font-medium">
-                  Contract Data Reporting Analyst
+                  Contract Reporting Data Analyst
                 </p>
                 <p className="text-lg text-slate-600">
                   James Madison University Alumni
