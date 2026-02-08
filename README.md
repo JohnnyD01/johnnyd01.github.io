@@ -6,7 +6,7 @@ A professional portfolio website showcasing my work in SQL, Power BI, Python, an
 
 
 
-## 🛠️ Technical Architecture
+##  Technical Architecture
 
 This website is a **Single Page Application (SPA)** built with **React**. Unlike standard HTML/CSS sites, this project uses a compilation process to optimize performance and manage assets.
 
