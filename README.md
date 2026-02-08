@@ -4,9 +4,6 @@ A professional portfolio website showcasing my work in SQL, Power BI, Python, an
 
 **Live Site:** [https://johnnyd01.github.io](https://johnnyd01.github.io)
 
-![Portfolio Preview](https://github.com/JohnnyD01/johnnyd01.github.io/blob/main/public/preview-image.png?raw=true)
-*(Note: You can replace this line with a screenshot of your site later)*
-
 ##  Technical Architecture
 
 This website is a **Single Page Application (SPA)** built with **React**. Unlike standard HTML/CSS sites, this project uses a compilation process to optimize performance and manage assets.
