@@ -34,7 +34,7 @@ This repository follows a standard **Source vs. Distribution** workflow to separ
 This was built using a hybrid workflow combining AI prototyping with local full-stack development tools.
 
 ### 1. Prototyping & Scaffolding
-The initial codebase and design concepts were generated using **Emergent AI**. This provided the base component structure (Navbar, Hero, Projects, Contact) and the design aesthetic.
+The initial codebase and design concepts were generated using **Emergent AI**. This provided the base component structure (Home, About, Projects, Contact, Resume through FormSpree.io) and the design aesthetic.
 
 ### 2. Local Environment Setup (Windows PowerShell)
 To move from prototype to a deployable application, I set up a local Node.js environment:
