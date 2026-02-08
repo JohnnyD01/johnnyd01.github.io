@@ -29,7 +29,7 @@ This repository follows a standard **Source vs. Distribution** workflow to separ
 * **Contents:** The **compiled** application. When `npm run build` is executed, React compiles the code into optimized static files (HTML, CSS, JS bundles).
 * **Workflow:** This branch is automatically updated via the deployment script. It acts as the "server" for the live website.
 
-## 🚀 The Development Workflow
+##  The Development Workflow
 
 This was built using a hybrid workflow combining AI prototyping with local full-stack development tools.
 
