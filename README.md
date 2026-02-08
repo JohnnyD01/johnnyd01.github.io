@@ -1,13 +1,13 @@
-# 📊 Johnny Duenas | Data Analyst Portfolio
+# Johnny Duenas | Data Analyst Portfolio
 
 A professional portfolio website showcasing my work in SQL, Power BI, Python, and Data Reporting.
 
-🔗 **Live Site:** [https://johnnyd01.github.io](https://johnnyd01.github.io)
+**Live Site:** [https://johnnyd01.github.io](https://johnnyd01.github.io)
 
 ![Portfolio Preview](https://github.com/JohnnyD01/johnnyd01.github.io/blob/main/public/preview-image.png?raw=true)
 *(Note: You can replace this line with a screenshot of your site later)*
 
-## 🛠️ Technical Architecture
+##  Technical Architecture
 
 This website is a **Single Page Application (SPA)** built with **React**. Unlike standard HTML/CSS sites, this project uses a compilation process to optimize performance and manage assets.
 
@@ -18,7 +18,7 @@ This website is a **Single Page Application (SPA)** built with **React**. Unlike
 * **Icons:** Lucide-React
 * **Deployment:** GitHub Pages (via `gh-pages` package)
 
-## 🌿 Branching & Deployment Strategy
+##  Branching & Deployment Strategy
 
 This repository follows a standard **Source vs. Distribution** workflow to separate the development environment from the live production site.
 
@@ -34,7 +34,7 @@ This repository follows a standard **Source vs. Distribution** workflow to separ
 
 ## 🚀 The Development Workflow
 
-This project was built using a hybrid workflow combining AI prototyping with local full-stack development tools.
+This was built using a hybrid workflow combining AI prototyping with local full-stack development tools.
 
 ### 1. Prototyping & Scaffolding
 The initial codebase and design concepts were generated using **Emergent AI**. This provided the base component structure (Navbar, Hero, Projects, Contact) and the design aesthetic.
@@ -52,7 +52,7 @@ The `package.json` file manages the following key libraries:
 * `lucide-react`: Provides the iconography used throughout the site.
 
 ### 4. Build & Deployment Pipeline
-Because this is a React app, it must be "compiled" before the browser can read it. I utilized a custom PowerShell workflow to deploy:
+Because this is a React app, it must be "compiled" before the browser can read it. I used a custom PowerShell workflow to deploy:
 
 ```powershell
 # 1. Clean previous builds to prevent caching errors
